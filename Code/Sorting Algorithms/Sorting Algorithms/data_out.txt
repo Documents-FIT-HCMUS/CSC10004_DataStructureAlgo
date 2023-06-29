@@ -1,0 +1,216 @@
+SELECTION SORT
+Size: 3000
+Random			:  9 ms.
+Sorted			:  9 ms.
+Reverse			:  8 ms.
+Nearly Sorted	:  9 ms.
+
+Size: 10000
+Random			:  103 ms.
+Sorted			:  104 ms.
+Reverse			:  94 ms.
+Nearly Sorted	:  110 ms.
+
+Size: 30000
+Random			:  956 ms.
+Sorted			:  897 ms.
+Reverse			:  803 ms.
+Nearly Sorted	:  891 ms.
+
+Size: 100000
+Random			:  9875 ms.
+Sorted			:  9882 ms.
+Reverse			:  8932 ms.
+Nearly Sorted	:  9949 ms.
+
+Size: 300000
+Random			:  99985 ms.
+Sorted			:  88800 ms.
+Reverse			:  80671 ms.
+Nearly Sorted	:  89234 ms.
+
+BUBBLE SORT
+Size: 3000
+Random			:  52 ms.
+Sorted			:  9 ms.
+Reverse			:  89 ms.
+Nearly Sorted	:  10 ms.
+
+Size: 10000
+Random			:  617 ms.
+Sorted			:  116 ms.
+Reverse			:  928 ms.
+Nearly Sorted	:  104 ms.
+
+Size: 30000
+Random			:  4933 ms.
+Sorted			:  921 ms.
+Reverse			:  8422 ms.
+Nearly Sorted	:  929 ms.
+
+Size: 100000
+Random			:  40199 ms.
+Sorted			:  10276 ms.
+Reverse			:  92955 ms.
+Nearly Sorted	:  10280 ms.
+
+Size: 300000
+Random			:  212064 ms.
+Sorted			:  93068 ms.
+Reverse			:  842361 ms.
+Nearly Sorted	:  92737 ms.
+
+INSERTION SORT
+Size: 3000
+Random			:  5 ms.
+Sorted			:  0 ms.
+Reverse			:  9 ms.
+Nearly Sorted	:  0 ms.
+
+Size: 10000
+Random			:  53 ms.
+Sorted			:  0 ms.
+Reverse			:  112 ms.
+Nearly Sorted	:  0 ms.
+
+Size: 30000
+Random			:  476 ms.
+Sorted			:  0 ms.
+Reverse			:  997 ms.
+Nearly Sorted	:  0 ms.
+
+Size: 100000
+Random			:  5108 ms.
+Sorted			:  0 ms.
+Reverse			:  10199 ms.
+Nearly Sorted	:  1 ms.
+
+Size: 300000
+Random			:  46453 ms.
+Sorted			:  0 ms.
+Reverse			:  91976 ms.
+Nearly Sorted	:  1 ms.
+
+MERGE SORT
+Size: 3000
+Random			:  2 ms.
+Sorted			:  2 ms.
+Reverse			:  2 ms.
+Nearly Sorted	:  2 ms.
+
+Size: 10000
+Random			:  7 ms.
+Sorted			:  7 ms.
+Reverse			:  6 ms.
+Nearly Sorted	:  7 ms.
+
+Size: 30000
+Random			:  25 ms.
+Sorted			:  20 ms.
+Reverse			:  21 ms.
+Nearly Sorted	:  21 ms.
+
+Size: 100000
+Random			:  85 ms.
+Sorted			:  85 ms.
+Reverse			:  74 ms.
+Nearly Sorted	:  90 ms.
+
+Size: 300000
+Random			:  278 ms.
+Sorted			:  209 ms.
+Reverse			:  209 ms.
+Nearly Sorted	:  212 ms.
+
+QUICK SORT
+Size: 3000
+Random			:  0 ms.
+Sorted			:  0 ms.
+Reverse			:  0 ms.
+Nearly Sorted	:  0 ms.
+
+Size: 10000
+Random			:  2 ms.
+Sorted			:  1 ms.
+Reverse			:  1 ms.
+Nearly Sorted	:  1 ms.
+
+Size: 30000
+Random			:  7 ms.
+Sorted			:  5 ms.
+Reverse			:  5 ms.
+Nearly Sorted	:  5 ms.
+
+Size: 100000
+Random			:  28 ms.
+Sorted			:  15 ms.
+Reverse			:  17 ms.
+Nearly Sorted	:  18 ms.
+
+Size: 300000
+Random			:  93 ms.
+Sorted			:  52 ms.
+Reverse			:  62 ms.
+Nearly Sorted	:  57 ms.
+
+HEAP SORT
+Size: 3000
+Random			:  1 ms.
+Sorted			:  1 ms.
+Reverse			:  1 ms.
+Nearly Sorted	:  1 ms.
+
+Size: 10000
+Random			:  5 ms.
+Sorted			:  5 ms.
+Reverse			:  4 ms.
+Nearly Sorted	:  5 ms.
+
+Size: 30000
+Random			:  17 ms.
+Sorted			:  16 ms.
+Reverse			:  16 ms.
+Nearly Sorted	:  17 ms.
+
+Size: 100000
+Random			:  68 ms.
+Sorted			:  68 ms.
+Reverse			:  75 ms.
+Nearly Sorted	:  87 ms.
+
+Size: 300000
+Random			:  253 ms.
+Sorted			:  238 ms.
+Reverse			:  190 ms.
+Nearly Sorted	:  205 ms.
+
+BINARY-INSERTION SORT
+Size: 3000
+Random			:  3 ms.
+Sorted			:  0 ms.
+Reverse			:  9 ms.
+Nearly Sorted	:  0 ms.
+
+Size: 10000
+Random			:  43 ms.
+Sorted			:  2 ms.
+Reverse			:  76 ms.
+Nearly Sorted	:  2 ms.
+
+Size: 30000
+Random			:  356 ms.
+Sorted			:  9 ms.
+Reverse			:  725 ms.
+Nearly Sorted	:  8 ms.
+
+Size: 100000
+Random			:  3554 ms.
+Sorted			:  29 ms.
+Reverse			:  7053 ms.
+Nearly Sorted	:  31 ms.
+
+Size: 300000
+Random			:  32082 ms.
+Sorted			:  101 ms.
+Reverse			:  63617 ms.
+Nearly Sorted	:  96 ms.

@@ -1,0 +1,40 @@
+void QuickSort(int a[], int n) 
+{
+	stack<int> s;
+	int left, right;
+	s.push(0);
+	s.push(n - 1);
+
+	while (!s.empty()) 
+	{
+		right = s.top();
+		s.pop();
+		left = s.top();
+		s.pop();
+
+		int pivot = a[right];
+		int i = left, j = right;
+
+		while (i <= j) 
+		{
+			while (a[i] < pivot) i++;
+			while (a[j] > pivot) j--;
+			if (i <= j) {
+				swap(a[i], a[j]);
+				i++;
+				j--;
+			}
+		}
+
+		if (left < j) 
+		{
+			s.push(left);
+			s.push(j);
+		}
+		if (i < right) 
+		{
+			s.push(i);
+			s.push(right);
+		}
+	}
+}
